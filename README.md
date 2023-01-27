@@ -15,7 +15,7 @@
  * npm run db:seed 
 
 # RUN APPLICATION
-* _node index _ or _nodemon_
+* _node index_ or _nodemon_
 
 # Headers Authentication 
   * KEY-Name = auth *
