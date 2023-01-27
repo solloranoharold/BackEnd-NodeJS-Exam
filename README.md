@@ -1,6 +1,7 @@
 # BackEnd-NodeJS-Exam
-
-npm install 
+* git clone https://github.com/solloranoharold/BackEnd-NodeJS-Exam.git // make sure you have git installed 
+* cd BackEnd-NodeJS-Exam
+* npm install 
 
 # Create database if not exists 
 
