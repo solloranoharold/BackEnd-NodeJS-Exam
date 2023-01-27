@@ -14,12 +14,13 @@ npm install
  * db:seed // insert static data 
 
 
-# API ENDPOINTS 
-** Headers Authentication ** 
+
+# Headers Authentication 
   * KEY-Name = auth *
  * KEY-Password = db588403f0a1d3b897442a28724166b4 *
 
  
+ # API ENDPOINTS 
  
  * POST 
 
