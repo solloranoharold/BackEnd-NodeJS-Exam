@@ -13,7 +13,8 @@ npm install
  ** Insert All Data **
  * npm run db:seed // insert static data 
 
-
+# RUN APPLICATION
+* node index or nodemon
 
 # Headers Authentication 
   * KEY-Name = auth *
