@@ -1,18 +1,18 @@
 # BackEnd-NodeJS-Exam
-* git clone https://github.com/solloranoharold/BackEnd-NodeJS-Exam.git // make sure you have git installed 
+* git clone https://github.com/solloranoharold/BackEnd-NodeJS-Exam.git 
 * cd BackEnd-NodeJS-Exam
 * npm install 
 
-# Create database if not exists 
+# Create database if not exists  (user_managementdb)
 
- node createDatabase.js  // create database if not exists (user_managementdb)
+ node createDatabase.js  
  
 # Migration and seeders 
  ** Migrate All Tables **
- * npm run db:migrate  // migrate all existing table 
+ * npm run db:migrate 
  
- ** Insert All Data **
- * npm run db:seed // insert static data 
+ ** Insert All Static Data **
+ * npm run db:seed 
 
 # RUN APPLICATION
 * _node index _ or _nodemon_
