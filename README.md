@@ -7,6 +7,12 @@ npm install
  node createDatabase.js 
  
 # Migration and seeders 
+ ** Migrate All Tables **
+ * db:migrate *
+
+
+ 
+
  
  
 
