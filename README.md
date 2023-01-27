@@ -22,8 +22,49 @@ npm install
  
  # API ENDPOINTS 
  
- * POST 
+ ** POST ** : _localhost:3000/users/registerUser_
 
+> ** BODY
+
+ > {
+ >  "Username" :  "test5",
+ >   "Password" : "test",
+ >   "FirstName" : "Harold",
+ >   "UserLevel" : "User",
+ >   "LastName" :  "Sollorano",
+ >   "Address" : "GenTri" ,
+ >   "PostCode" : "1234" ,
+ >   "ContactNo" : "123456778"
+ > }
+
+
+ ** POST ** : _localhost:3000/users/updateUser_
+  > {
+  > "id" : 1,
+ >  "Username" :  "test5",
+ >   "Password" : "test",
+ >   "FirstName" : "Harold",
+ >   "UserLevel" : "User",
+ >   "LastName" :  "Sollorano",
+ >   "Address" : "GenTri" ,
+ >   "PostCode" : "1234" ,
+ >   "ContactNo" : "123456778"
+ > }
+
+ ** POST ** : _localhost:3000/users/deleteUser_
+  > {
+  > "id":1
+  > }
+
+ ** POST ** : _localhost:3000/users/deleteMultipleUser
+  > [
+  > 1,2,3
+  > ]
+ 
+
+** GET ** : _localhost:3000/users/getAllUser_
+
+** GET(Login) : _localhost:3000/login/your_username / your_password_
 
 # Test 
 * npm test
