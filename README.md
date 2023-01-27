@@ -2,8 +2,12 @@
 
 npm install 
 
-#Create database if not exists 
+# Create database if not exists 
 
- ** node createDatabase.js **
+ node createDatabase.js 
+ 
+# Migration and seeders 
+ 
+ 
 
 
