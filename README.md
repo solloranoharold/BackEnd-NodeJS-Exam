@@ -14,6 +14,13 @@ npm install
  * db:seed // insert static data 
 
 
+
+
+
+# Test 
+* npm test
+
+
  
 
  
