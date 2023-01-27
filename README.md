@@ -8,10 +8,10 @@ npm install
  
 # Migration and seeders 
  ** Migrate All Tables **
- * db:migrate  // migrate all existing table 
+ * npm run db:migrate  // migrate all existing table 
  
  ** Insert All Data **
- * db:seed // insert static data 
+ * npm run db:seed // insert static data 
 
 
 
