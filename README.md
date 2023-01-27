@@ -14,7 +14,7 @@ npm install
  * db:seed // insert static data 
 
 
-#API ENDPOINTS 
+# API ENDPOINTS 
 ** Header Authentication ** 
  
  * POST 
