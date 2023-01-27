@@ -16,8 +16,8 @@ npm install
 
 # API ENDPOINTS 
 ** Headers Authentication ** 
-  ** KEY-Name = auth ** 
- ** KEY-Password = db588403f0a1d3b897442a28724166b4 **
+  * KEY-Name = auth *
+ * KEY-Password = db588403f0a1d3b897442a28724166b4 *
 
  
  
