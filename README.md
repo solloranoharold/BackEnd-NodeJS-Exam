@@ -6,7 +6,7 @@
 
 # Create database if not exists  (user_managementdb)
 * check mysql connection first 
- node createDatabase.js  
+ * node createDatabase.js  
  
 # Migration and seeders 
  ** Migrate All Tables **
