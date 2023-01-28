@@ -1,5 +1,7 @@
 # Installation
 
+*git clone https://github.com/solloranoharold/BackEnd-NodeJS-Exam.git
+*cd BackEnd-NodeJS-Exam
 * npm install 
 
 # Create database if not exists  (user_managementdb)
